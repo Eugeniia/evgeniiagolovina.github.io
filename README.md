@@ -1,3 +1,3 @@
 # Evgeniia Golovina
 
-My CV page
+My CV page is https://eugeniia.github.io/evgeniiagolovina.github.io/
