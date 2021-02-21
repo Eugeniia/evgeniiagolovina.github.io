@@ -10,7 +10,7 @@ title: Evgeniia Golovina - CV
 
 &nbsp;
 
-![](imgs/Evgeniia.jpg){height=340px width=340px align="right"}
+![](images/Evgeniia.jpg){height=340px width=340px align="right"}
 
 A PhD student at the Liggins Institute, The University of Auckland, New Zealand. 
 
