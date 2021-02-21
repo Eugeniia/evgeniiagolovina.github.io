@@ -8,9 +8,7 @@ title: Evgeniia Golovina - CV
 
 ## CV
 
-&nbsp;
-
-![](images/Evgeniia.jpg){align="right"}
+<img align="right" src="images/Evgeniia.jpg">
 
 A PhD student at the Liggins Institute, The University of Auckland, New Zealand. 
 
