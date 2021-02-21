@@ -6,11 +6,11 @@ title: Evgeniia Golovina - CV
 ---
 
 
-## CV
+## Evgeniia Golovina
 
 <img align="right" src="images/Evgeniia.jpg">
 
-A PhD student at the Liggins Institute, The University of Auckland, New Zealand. 
+A PhD candidate at the Liggins Institute, The University of Auckland, New Zealand. 
 
 Currently, I’m doing research in Justin O’Sullivan “Genomics and System Biology” group, where we’re trying to understand the role of genetics and epigenetics in the development of complex phenotypes. Particularly, I’m trying to understand how genetic variants associated with psychiatric and substance use disorders can act to regulate genes and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell type-specific gene regulation in the development of these disorders.
 
@@ -102,22 +102,22 @@ Smorodintsev Research Institute of Influenza is one of the leading scientific ce
 
 ### SKILLS & INTERESTS
 
-**Personal qualities**
+**Personal qualities:**
 Self-starter on exploratory projects; goal-driven; scientific curiosity; highly interested
 in getting things done; excellent organisational and communication skills; eager to
 learn and develop new skills; willing to travel up to 80%
 
-**Data analysis and computer skills**
+**Data analysis and computer skills:**
 Expertise with commonly used software applications and bioinformatics tools for analysis of NGS and multi-omics data (Hi-C, RNA-seq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome) and spectroscopic data (Raman and Infrared spectroscopy); experience with NeSI,
 Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms, including building and troubleshooting bioinformatics workflows and pipelines; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Jupyter Notebook, Spyder, PyCharm and TensorFlow
 
-**Programming skills**
+**Programming skills:**
 Python, R, MatLab, Bash
 
-**Languages**
+**Languages:**
 Russian (native proficiency), English (professional working proficiency), Spanish (elementary proficiency)
 
-**Professional interests**
+**Professional interests:**
 Bioinformatics, data science and visualization, data storytelling, public speaking, machine learning, 4D genome architecture and gene regulation, psychiatric genetics, precision medicine, innovation and commercialization in science
 
 
