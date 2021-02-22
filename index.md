@@ -10,7 +10,7 @@ title: Evgeniia Golovina - CV
 
 <img align="right" src="images/Evgeniia.jpg">
 
-A PhD candidate at the Liggins Institute, The University of Auckland, New Zealand. 
+A PhD candidate at the Liggins Institute, University of Auckland, New Zealand. 
 
 Currently, I’m doing research in Justin O’Sullivan “Genomics and System Biology” group, where we’re trying to understand the role of genetics and epigenetics in the development of complex phenotypes. Particularly, I’m trying to understand how genetic variants associated with psychiatric and substance use disorders can act to regulate genes and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell type-specific gene regulation in the development of these disorders.
 
@@ -151,6 +151,8 @@ November 2020<br/>
 
 ### ADDITIONAL EDUCATION
 
+- [Public Speaking: A tactical approach](https://www.udemy.com/certificate/UC-811d72b9-4721-434a-adcd-2d2f2a07ebe6/) (Udemy)
+- [Brain Hacking Presentation Skills](https://www.udemy.com/certificate/UC-f677c06d-77e8-45d4-9c42-aeb5e86a405c/) (Udemy)
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
 - Data Science Specialisation by Johns Hopkins University (Coursera)
 - Machine Learning Crash Course with TensorFlow APIs (Google)
