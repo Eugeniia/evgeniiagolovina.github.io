@@ -145,14 +145,13 @@ November 2020<br/>
 
 - Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
 - **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
+- **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Autism spectrum disorder: understanding the impact of SNPs on biological pathways in the fetal and adult cortex. bioRxiv. 2021:2021.03.03.433667. [DOI](https://doi.org/10.1101/2021.03.03.433667)
 - Fadason T, Gokuladhas S, **Golovina E**, Ho D, Farrow S, Nyaga D, et al. A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors. bioRxiv. 2020:2020.04.14.042002. [DOI](https://www.biorxiv.org/content/10.1101/2020.04.14.042002v2)
 
 &nbsp;
 
 ### ADDITIONAL EDUCATION
 
-- [Public Speaking: A tactical approach](https://www.udemy.com/certificate/UC-811d72b9-4721-434a-adcd-2d2f2a07ebe6/) (Udemy)
-- [Brain Hacking Presentation Skills](https://www.udemy.com/certificate/UC-f677c06d-77e8-45d4-9c42-aeb5e86a405c/) (Udemy)
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
 - Data Science Specialisation by Johns Hopkins University (Coursera)
 - Machine Learning Crash Course with TensorFlow APIs (Google)
