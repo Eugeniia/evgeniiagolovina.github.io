@@ -52,6 +52,9 @@ disorders”<br/>
 Specialization: Biochemistry and Molecular Biology<br/>
 MSc thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
 
+**2012 &ndash; 2014**<br/>
+**Professional Communication Translator**. *Saint Petersburg State University, English*<br/>
+
 **2008 &ndash; 2012**<br/>
 **BSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Cell and Molecular Biology, Biotechnology<br/>
@@ -115,7 +118,7 @@ Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms, inclu
 Python, R, MatLab, Bash
 
 **Languages:**
-Russian (native proficiency), English (professional working proficiency), Spanish (elementary proficiency)
+Russian (native proficiency), English (professional working proficiency), Spanish (limited working proficiency), German (elementary proficiency)
 
 **Professional interests:**
 Bioinformatics, data science and visualization, data storytelling, public speaking, machine learning, 4D genome architecture and gene regulation, psychiatric genetics, precision medicine, innovation and commercialization in science
@@ -129,8 +132,7 @@ Bioinformatics, data science and visualization, data storytelling, public speaki
 - **Virtual EMBL Conference: From Functional Genomics to Systems Biology** (digital poster), 16-19
 November 2020<br/>
 - **16th Asian Conference on Transcription 2019** (poster presentation), 1-4 December 2019, Dunedin, NZ<br/>
-**Liggins Institute public lecture** “Precision medicine: your genes and mental health”, 26th November, 2019, Auckland, NZ. Available [here](https://www.youtube.com/watch?v=ZdHQQR4Y_vU&feature=emb_logo%2F)<br/>
-- **CRISPR workshop** by Jennifer Hollywood and Veronica Sander, 30th October 2020, Auckland, NZ<br/>
+- **Liggins Institute public lecture** “Precision medicine: your genes and mental health”, 26th November, 2019, Auckland, NZ. Available [here](https://www.youtube.com/watch?v=ZdHQQR4Y_vU&feature=emb_logo%2F)<br/>
 - **Queenstown Research Week 2019** (oral presentation), 31 August - 6 September 2019, Queenstown, NZ<br/>
 - **HealtheX 2019 conference** (oral presentation), 13th September 2019, Auckland, NZ<br/>
 - **The Research Bazaar (ResBaz) 2019**, helper for “Introductory R” session, 10-12 July 2019, Auckland, NZ<br/>
@@ -143,9 +145,9 @@ November 2020<br/>
 
 ### PUBLICATIONS
 
-- Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
-- **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
 - **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Autism spectrum disorder: understanding the impact of SNPs on biological pathways in the fetal and adult cortex. bioRxiv. 2021:2021.03.03.433667. [DOI](https://doi.org/10.1101/2021.03.03.433667)
+- **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
+- Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
 - Fadason T, Gokuladhas S, **Golovina E**, Ho D, Farrow S, Nyaga D, et al. A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors. bioRxiv. 2020:2020.04.14.042002. [DOI](https://www.biorxiv.org/content/10.1101/2020.04.14.042002v2)
 
 &nbsp;
@@ -153,11 +155,12 @@ November 2020<br/>
 ### ADDITIONAL EDUCATION
 
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
-- Data Science Specialisation by Johns Hopkins University (Coursera)
-- Machine Learning Crash Course with TensorFlow APIs (Google)
+- [Psychological First Aid](http://coursera.org/verify/PPJQDEAVY5AK) by Johns Hopkins University (Coursera)
+- Data Science Specialization by Johns Hopkins University (Coursera)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
-- Open Machine Learning Course
-- Machine Learning course by Stanford University (Coursera)
+- Communication Strategies for a Virtual Age by University of Toronto (Coursera)
+- Strategies for speaking, teaching and presenting online by Public Speaking Lab
+- Machine Learning by Stanford University (Coursera)
 
 &nbsp;
 
