@@ -71,7 +71,7 @@ Position: Biologist<br/>
 
 Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. At Genestack I was involved in:
 
-- Analysis of NGS data and running bioinformatics pipelines
+- NGS data analysis
 - Development of test system for biological applications
 - Curation of experiments pre-uploaded from public databases (GEO, ArrayExpress, BioProject, ENA, SRA)
 - Development of user friendly interfaces via coordination with software developers
@@ -84,14 +84,14 @@ Genestack is a platform to manage, process and visualize biological data, with a
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
 Position: Patent agent<br/>
 
-Nevinpat is a Saint Petersburg devision of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat I was involved in: 
+Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat I was involved in: 
 
 - Protection of foreign applications in the process of patenting their inventions in
 Russian and Eurasian patent offices and after patent granting
 - Editing Russian translations of patent applications
 - Correspondence with patent experts and foreign applicants
 - Comparative analysis of patentability
-- Defining the patent infringement
+- Defining patent infringement
 
 &nbsp;
 
@@ -99,7 +99,7 @@ Russian and Eurasian patent offices and after patent granting
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
 Position: Research Assistant<br/>
 
-Smorodintsev Research Institute of Influenza is one of the leading scientific centres tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. At the institute I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
+Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. At the institute, I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
 
 &nbsp;
 
@@ -159,8 +159,8 @@ November 2020<br/>
 - Data Science Specialization by Johns Hopkins University (Coursera)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Communication Strategies for a Virtual Age by University of Toronto (Coursera)
-- Strategies for speaking, teaching and presenting online by Public Speaking Lab
-- Machine Learning by Stanford University (Coursera)
+- Strategies for Speaking, Teaching and Presenting Online by Public Speaking Lab
+- [Machine Learning](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971489~2042534/pdf) by Stanford University (Coursera)
 
 &nbsp;
 
