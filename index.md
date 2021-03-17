@@ -72,11 +72,11 @@ Position: Biologist<br/>
 Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. At Genestack I was involved in:
 
 - NGS data analysis
-- Development of test system for biological applications
-- Curation of experiments pre-uploaded from public databases (GEO, ArrayExpress, BioProject, ENA, SRA)
-- Development of user friendly interfaces via coordination with software developers
-- Promotion of company products through writing tutorials and blog posts
-- User support
+- development of test system for biological applications
+- curation of experiments pre-uploaded from public databases
+- development of user friendly interfaces via coordination with software developers
+- promotion of company products through writing tutorials and blog posts
+- user support
 
 &nbsp;
 
@@ -86,12 +86,11 @@ Position: Patent agent<br/>
 
 Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat I was involved in: 
 
-- Protection of foreign applications in the process of patenting their inventions in
-Russian and Eurasian patent offices and after patent granting
-- Editing Russian translations of patent applications
-- Correspondence with patent experts and foreign applicants
-- Comparative analysis of patentability
-- Defining patent infringement
+- protection of foreign applications (Russian and Eurasian patent offices)
+- editing Russian translations of patent applications
+- correspondence with patent experts and foreign applicants
+- comparative analysis of patentability
+- defining patent infringement
 
 &nbsp;
 
@@ -106,13 +105,12 @@ Smorodintsev Research Institute of Influenza is one of the leading scientific ce
 ### SKILLS & INTERESTS
 
 **Personal qualities:**
-Self-starter on exploratory projects; goal-driven; scientific curiosity; highly interested
-in getting things done; excellent organisational and communication skills; eager to
-learn and develop new skills; willing to travel up to 80%
+Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested
+in getting things done, excellent organisational and communication skills, eager to
+learn and develop new skills, willing to travel up to 80%
 
 **Data analysis and computer skills:**
-Expertise with commonly used software applications and bioinformatics tools for analysis of NGS and multi-omics data (Hi-C, RNA-seq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome) and spectroscopic data (Raman and Infrared spectroscopy); experience with NeSI,
-Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms, including building and troubleshooting bioinformatics workflows and pipelines; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Jupyter Notebook, Spyder, PyCharm and TensorFlow
+Expertise with commonly used software applications and bioinformatics tools for analysis of NGS and multi-omics data (Hi-C, RNA-seq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome) and spectroscopic data (Raman and Infrared spectroscopy); experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Jupyter Notebook, Spyder, PyCharm and TensorFlow
 
 **Programming skills:**
 Python, R, MatLab, Bash
@@ -166,10 +164,10 @@ November 2020<br/>
 
 ### REFEREES
 
-- **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, e-mail: justin.osullivan@auckland.ac.nz
-- **Prof Emer. John Werry**, *University of Auckland*, e-mail: j.werry@auckland.ac.nz
-- **MBA, PhD. Alessandro Riccombeni**, *Amazon Web Services*, e-mail: alessandro.riccombeni@gmail.com
-- **Prof. Lyudmila Panina**, *Saint Petersburg State University*, e-mail: lkpanina@yandex.ru
+- **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
+- **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
+- **MBA, PhD. Alessandro Riccombeni**, *Amazon Web Services*, email: alessandro.riccombeni@gmail.com
+- **Prof. Lyudmila Panina**, *Saint Petersburg State University*, email: lkpanina@yandex.ru
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
