@@ -126,18 +126,19 @@ Bioinformatics, data science and visualization, data storytelling, public speaki
 
 ### ACTIVITIES
 
+- **Hi-C workshop** by Genomics Aotearoa, 25-26th March 2021, Auckland, NZ<br/>
 - Organization of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ<br/>
 - **Virtual EMBL Conference: From Functional Genomics to Systems Biology** (digital poster), 16-19
 November 2020<br/>
 - **16th Asian Conference on Transcription 2019** (poster presentation), 1-4 December 2019, Dunedin, NZ<br/>
-- **Liggins Institute public lecture** “Precision medicine: your genes and mental health”, 26th November, 2019, Auckland, NZ. Available [here](https://www.youtube.com/watch?v=ZdHQQR4Y_vU&feature=emb_logo%2F)<br/>
+- **Liggins Institute public lecture** “Precision medicine: your genes and mental health”, 26th November 2019, Auckland, NZ. Available [here](https://www.youtube.com/watch?v=ZdHQQR4Y_vU&feature=emb_logo%2F)<br/>
 - **Queenstown Research Week 2019** (oral presentation), 31 August - 6 September 2019, Queenstown, NZ<br/>
 - **HealtheX 2019 conference** (oral presentation), 13th September 2019, Auckland, NZ<br/>
 - **The Research Bazaar (ResBaz) 2019**, helper for “Introductory R” session, 10-12 July 2019, Auckland, NZ<br/>
 - **HealtheX 2018 conference** (elevator pitch presentation), 7th September 2018, Auckland, NZ<br/>
-- **Winter School in Mathematical & Computational Biology**, 2-6 July 2018, Brisbane, Australia<br/>
+- **Winter School in Mathematical & Computational Biology** by the University of Queensland, 2-6 July 2018, Brisbane, Australia<br/>
 - **Enterprise & Innovation Workshop** by Centre for Innovation and Entrepreneurship at the University of Auckland, 7 & 13 March 2018, Auckland, NZ<br/>
-- **PhD Research Innovation and Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ<br/>
+- **PhD Research Innovation & Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ<br/>
 
 &nbsp;
 
@@ -158,6 +159,7 @@ November 2020<br/>
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Communication Strategies for a Virtual Age by University of Toronto (Coursera)
 - Strategies for Speaking, Teaching and Presenting Online by Public Speaking Lab
+- Mathematics for Data Science Specialization by Higher School of Economics (Coursera)
 - [Machine Learning](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971489~2042534/pdf) by Stanford University (Coursera)
 
 &nbsp;
