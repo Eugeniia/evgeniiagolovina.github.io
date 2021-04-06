@@ -21,7 +21,7 @@ Currently, I’m doing research in Justin O’Sullivan “Genomics and System Bi
 
 - NGS and multi-omics data analysis, 7 years
 - Broad knowledge in biochemistry, genetics and molecular biology
-- Programming experience in Python, R, Matlab, Bash
+- Programming experience in Python, R, Matlab, C++, Bash
 - Excellent organisational, writing and communication skills
 - High motivation to get things done
 - Ability to work in team and independently
@@ -113,7 +113,7 @@ learn and develop new skills, willing to travel up to 80%
 Expertise with commonly used software applications and bioinformatics tools for analysis of NGS and multi-omics data (Hi-C, RNA-seq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome) and spectroscopic data (Raman and Infrared spectroscopy); experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Jupyter Notebook, Spyder, PyCharm and TensorFlow
 
 **Programming skills:**
-Python, R, MatLab, Bash
+Python, R, MatLab, C++, Bash
 
 **Languages:**
 Russian (native proficiency), English (professional working proficiency), Spanish (limited working proficiency), German (elementary proficiency)
@@ -147,6 +147,7 @@ November 2020<br/>
 - **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Autism spectrum disorder: understanding the impact of SNPs on biological pathways in the fetal and adult cortex. bioRxiv. 2021:2021.03.03.433667. [DOI](https://doi.org/10.1101/2021.03.03.433667)
 - **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
 - Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
+- Gokuladhas S, Schierding W, **Golovina E**, Fadason T, O’Sullivan JM. Unravelling the shared genetic mechanisms underlying 18 autoimmune diseases using a systems approach. bioRxiv. 2021.03.28.437437. [DOI](https://doi.org/10.1101/2021.03.28.437437)
 - Fadason T, Gokuladhas S, **Golovina E**, Ho D, Farrow S, Nyaga D, et al. A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors. bioRxiv. 2020:2020.04.14.042002. [DOI](https://www.biorxiv.org/content/10.1101/2020.04.14.042002v2)
 
 &nbsp;
