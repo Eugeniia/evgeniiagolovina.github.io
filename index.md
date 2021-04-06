@@ -42,7 +42,7 @@ Currently, I’m doing research in Justin O’Sullivan “Genomics and System Bi
 
 ### EDUCATION
 
-**2017 &ndash; present**<br/>
+**2017 &ndash; 2021**<br/>
 **PhD**. *University of Auckland, Liggins Institute, Health Sciences*<br/>
 PhD thesis “Decoding the regulatory landscape of psychiatric and alcohol use
 disorders”<br/>
