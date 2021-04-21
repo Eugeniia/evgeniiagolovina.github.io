@@ -126,7 +126,8 @@ Bioinformatics, data science and visualization, data storytelling, public speaki
 
 ### ACTIVITIES
 
-- **Hi-C workshop** by Genomics Aotearoa, 25-26th March 2021, Auckland, NZ<br/>
+- **Virtual BCI & Neurotechnology Spring School** by g.tec medical engineering GmbH, 12-21 April 2021<br/>
+- **Hi-C workshop** by Genomics Aotearoa, 25-26 March 2021, Auckland, NZ<br/>
 - Organization of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ<br/>
 - **Virtual EMBL Conference: From Functional Genomics to Systems Biology** (digital poster), 16-19
 November 2020<br/>
