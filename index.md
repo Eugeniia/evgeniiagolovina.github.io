@@ -12,7 +12,7 @@ title: Evgeniia Golovina - CV
 
 A PhD candidate at the Liggins Institute, University of Auckland, New Zealand. 
 
-Currently, I’m doing research in Justin O’Sullivan “Genomics and System Biology” group, where we’re trying to understand the role of genetics and epigenetics in the development of complex phenotypes. Particularly, I’m trying to understand how genetic variants associated with psychiatric and substance use disorders can act to regulate genes and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell type-specific gene regulation in the development of these disorders.
+Currently, I’m doing research in Justin O’Sullivan “Genomics and System Biology” group, where we’re trying to understand the role of genetics and epigenetics in the development of complex phenotypes. In particular, I’m trying to understand how genetic variants associated with psychiatric and substance use disorders can act to regulate genes and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell type-specific gene regulation in the development of these disorders.
 
 
 &nbsp;
@@ -65,18 +65,19 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 
 ### PROFESSIONAL & RESEARCH EXPERIENCE
 
+<strong>01.04.2021 &mdash; present</strong><br/>
+<strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
+Position: Research Assistant<br/>
+
+Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. At the Institute, I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+
+&nbsp;
+
 <strong>10.12.2013 &mdash; 25.08.2017</strong><br/>
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
 Position: Biologist<br/>
 
-Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. At Genestack I was involved in:
-
-- NGS data analysis
-- development of test system for biological applications
-- curation of experiments pre-uploaded from public databases
-- development of user friendly interfaces via coordination with software developers
-- promotion of company products through writing tutorials and blog posts
-- user support
+Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. At Genestack, I was involved in Next Generation Sequencing (NGS) data analysis, development of the test system for biological applications, curation of the experiments pre-uploaded from public databases, development of user-friendly interfaces via coordination with software developers, promotion of the company products, and user support.
 
 &nbsp;
 
@@ -84,13 +85,7 @@ Genestack is a platform to manage, process and visualize biological data, with a
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
 Position: Patent agent<br/>
 
-Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat I was involved in: 
-
-- protection of foreign applications (Russian and Eurasian patent offices)
-- editing Russian translations of patent applications
-- correspondence with patent experts and foreign applicants
-- comparative analysis of patentability
-- defining patent infringement
+Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat, I was involved in the protection of foreign applications from both Russian and Eurasian patent offices. This included the correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of the patent applications, and defining patent infringement.
 
 &nbsp;
 
@@ -98,7 +93,7 @@ Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
 Position: Research Assistant<br/>
 
-Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. At the institute, I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
+Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. At the Institute, I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
 
 &nbsp;
 
@@ -116,7 +111,7 @@ Expertise with commonly used software applications and bioinformatics tools for 
 Python, R, MatLab, C++, Bash
 
 **Languages:**
-Russian (native proficiency), English (professional working proficiency), Spanish (limited working proficiency), German (elementary proficiency)
+Russian (native), English (professional), Spanish (limited), German (elementary)
 
 **Professional interests:**
 Bioinformatics, data science and visualization, data storytelling, public speaking, machine learning, 4D genome architecture and gene regulation, psychiatric genetics, precision medicine, innovation and commercialization in science
@@ -126,9 +121,10 @@ Bioinformatics, data science and visualization, data storytelling, public speaki
 
 ### ACTIVITIES
 
+- Instructor at the **virtual workshop** [**"Using R in Research"**](https://tayaza.github.io/2021-05-18-ihvn-online/) organised by the Liggins Institue in collaboration with the Institute of Human Virology in Nigeria (IHVN), 17-18 May 2021<br/>
 - **Virtual BCI & Neurotechnology Spring School** by g.tec medical engineering GmbH, 12-21 April 2021<br/>
 - **Hi-C workshop** by Genomics Aotearoa, 25-26 March 2021, Auckland, NZ<br/>
-- Organization of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ<br/>
+- Co-organizer of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ<br/>
 - **Virtual EMBL Conference: From Functional Genomics to Systems Biology** (digital poster), 16-19
 November 2020<br/>
 - **16th Asian Conference on Transcription 2019** (poster presentation), 1-4 December 2019, Dunedin, NZ<br/>
@@ -161,9 +157,8 @@ November 2020<br/>
 - Data Science Specialization by Johns Hopkins University (Coursera)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Communication Strategies for a Virtual Age by University of Toronto (Coursera)
-- Strategies for Speaking, Teaching and Presenting Online by Public Speaking Lab
 - Mathematics for Data Science Specialization by Higher School of Economics (Coursera)
-- [Machine Learning](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971489~2042534/pdf) by Stanford University (Coursera)
+- Machine Learning by Stanford University (Coursera)
 
 &nbsp;
 
