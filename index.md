@@ -121,7 +121,7 @@ Bioinformatics, data science and visualization, data storytelling, public speaki
 
 ### ACTIVITIES
 
-- **Virtual Keystone Symposia "Neuroimmune Interactions in Health and Disease"** (digital presentation), 7-9 June 2021<br/>
+- **Virtual Keystone Symposia "Neuroimmune Interactions in Health and Disease"** (digital poster), 7-9 June 2021<br/>
 - Instructor at the **virtual workshop** [**"Using R in Research"**](https://tayaza.github.io/2021-05-18-ihvn-online/) organised by the Liggins Institue in collaboration with the Institute of Human Virology in Nigeria (IHVN), 17-18 May 2021<br/>
 - **Virtual BCI & Neurotechnology Spring School** by g.tec medical engineering GmbH, 12-21 April 2021<br/>
 - **Hi-C workshop** by Genomics Aotearoa, 25-26 March 2021, Auckland, NZ<br/>
