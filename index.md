@@ -53,7 +53,7 @@ Specialization: Biochemistry and Molecular Biology<br/>
 MSc thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
 
 **2012 &ndash; 2014**<br/>
-**Professional Communication Translator**. *Saint Petersburg State University, English*<br/>
+**Professional Communication Translator**. *Saint Petersburg State University, English & Russian*<br/>
 
 **2008 &ndash; 2012**<br/>
 **BSc**. *Saint Petersburg State University, Biology*<br/>
@@ -116,6 +116,8 @@ Russian (native), English (professional), Spanish (limited), German (elementary)
 **Professional interests:**
 Bioinformatics, data science and visualization, data storytelling, public speaking, machine learning, 4D genome architecture and gene regulation, psychiatric genetics, precision medicine, innovation and commercialization in science
 
+**Hobbies:**
+Hiking, yoga, art, sports massage, scuba diving and freediving, first aid, cycling
 
 &nbsp;
 
@@ -155,6 +157,7 @@ November 2020<br/>
 
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
 - [Psychological First Aid](http://coursera.org/verify/PPJQDEAVY5AK) by Johns Hopkins University (Coursera)
+- [Comprehensive First Aid Course](https://www.dropbox.com/s/lyxgfdbcp8l5c7d/Certificate_Comprehensive_First_Aid_AM_Doc_b21177c8-3213-4fe3-b2bc-36eeccdb57c5.pdf?dl=0) by New Zealand Red Cross
 - Data Science Specialization by Johns Hopkins University (Coursera)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Communication Strategies for a Virtual Age by University of Toronto (Coursera)
