@@ -146,7 +146,7 @@ November 2020<br/>
 
 ### PUBLICATIONS
 
-- **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Autism spectrum disorder: understanding the impact of SNPs on biological pathways in the fetal and adult cortex. bioRxiv. 2021:2021.03.03.433667. [DOI](https://doi.org/10.1101/2021.03.03.433667)
+- **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Understanding the impact of SNPs associated with autism spectrum disorder on biological pathways in the human fetal and adult cortex. Sci Rep. 2021;11:15867. [DOI](https://doi.org/10.1038/s41598-021-95447-z)
 - **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
 - Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
 - Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. bioRxiv. 2021.04.08.439080. [DOI](https://doi.org/10.1101/2021.04.08.439080)
