@@ -36,7 +36,7 @@ Currently, I’m doing research in Justin O’Sullivan “Genomics and System Bi
 - Twitter: [https://twitter.com/FoffaJn](https://twitter.com/FoffaJn)
 - ResearchGate: [https://www.researchgate.net/profile/Evgeniia_Golovina2](https://www.researchgate.net/profile/Evgeniia_Golovina2)
 - Google Scholar: [https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
-
+- Publons: [https://publons.com/researcher/4650922/evgeniia-golovina/](https://publons.com/researcher/4650922/evgeniia-golovina/)
 
 &nbsp;
 
@@ -156,8 +156,27 @@ November 2020<br/>
 
 &nbsp;
 
+### VOLUNTEER EXPERIENCE
+
+<strong>01.04.2021 &mdash; present</strong><br/>
+<strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
+Role: Job Mentor<br/>
+
+Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
+
+&nbsp;
+
+<strong>01.09.2021 &mdash; present</strong><br/>
+<strong>[The University of Auckland English Language Academy](https://www.ela.auckland.ac.nz/)</strong>, Auckland, New Zealand<br/>
+Role: Conversation Leader<br/>
+
+Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
+
+&nbsp;
+
 ### ADDITIONAL EDUCATION
 
+- [Healthy Start Workforce Online Education Programme](https://www.dropbox.com/s/0q4vi7swc0qpxme/Early-life%20Science%20Programme_Healthy%20Start%20Education%20Programme%20Certificate%20of%20Completion.pdf?dl=0) by New Zealand Ministry of Health
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
 - [Psychological First Aid](http://coursera.org/verify/PPJQDEAVY5AK) by Johns Hopkins University (Coursera)
 - [Comprehensive First Aid Course](https://www.dropbox.com/s/lyxgfdbcp8l5c7d/Certificate_Comprehensive_First_Aid_AM_Doc_b21177c8-3213-4fe3-b2bc-36eeccdb57c5.pdf?dl=0) by New Zealand Red Cross
