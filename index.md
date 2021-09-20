@@ -29,7 +29,6 @@ Currently, I’m doing research in Justin O’Sullivan “Genomics and System Bi
 
 **Contact information:**
 
-- Tel: +64 21 087 45 886
 - Email: Jn.Golovina@gmail.com, e.golovina@auckland.ac.nz
 - Linkedin: [https://www.linkedin.com/in/evgeniiagolovina/](https://www.linkedin.com/in/evgeniiagolovina/)
 - Github: [https://github.com/Eugeniia](https://github.com/Eugeniia)
@@ -54,6 +53,7 @@ MSc thesis “Improvement of information value of spectroscopic data in the anal
 
 **2012 &ndash; 2014**<br/>
 **Professional Communication Translator**. *Saint Petersburg State University, English & Russian*<br/>
+Diploma work in translation of “Raman Spectroscopy in Art and Archaeology: A New Light on Historical Mysteries” (chapter 5 of the book “Frontiers of Molecular Spectroscopy”) (Oxford, Elsevier, 2009, pp.133-164)<br/>
 
 **2008 &ndash; 2012**<br/>
 **BSc**. *Saint Petersburg State University, Biology*<br/>
