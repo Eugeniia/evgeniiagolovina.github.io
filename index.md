@@ -123,6 +123,7 @@ Hiking, yoga, art, sports massage, scuba diving and freediving, first aid, cycli
 
 ### ACTIVITIES
 
+- **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
 - **15th GeneMappers Conference 2021** (oral presentation), 23-25 June 2021<br/>
 - **IET #PresentIn10 Competition** (Healthy lives, Stage 1 winner), 23 June 2021<br/>
 - **Virtual Keystone Symposia "Neuroimmune Interactions in Health and Disease"** (digital poster), 7-9 June 2021<br/>
@@ -171,6 +172,14 @@ Helping improve communication between New Zealand employers and new migrant empl
 Role: Conversation Leader<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
+
+&nbsp;
+
+<strong>01.09.2021 &mdash; present</strong><br/>
+<strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
+Role: Discussion Leader<br/>
+
+I'm serving as a discussion leader for the University of Auckland Book Club where I share my passion for reading. My role is to help create a very engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
 &nbsp;
 
