@@ -10,9 +10,11 @@ title: Evgeniia Golovina - CV
 
 <img align="right" src="images/Evgeniia.jpg">
 
-A PhD candidate at the Liggins Institute, University of Auckland, New Zealand. 
+A Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand.
 
-Currently, I’m doing research in Justin O’Sullivan “Genomics and System Biology” group, where we’re trying to understand the role of genetics and epigenetics in the development of complex phenotypes. In particular, I’m trying to understand how genetic variants associated with psychiatric and substance use disorders can act to regulate genes and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell type-specific gene regulation in the development of these disorders.
+Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I absolutely agree. I’m passionate about health sciences and I have the same goal in mind - I simply want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our intention to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
+
+Currently, I'm doing research in Justin O’Sullivan “Genomics and Systems Biology” group where we're trying to understand the regulatory role of genetics and epigenetics in the development of complex traits. Particularly, we're interested in how genetic variants associated with complex traits can act to regulate genes, and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell-type-specific gene regulation in the development of these traits.
 
 
 &nbsp;
@@ -21,7 +23,7 @@ Currently, I’m doing research in Justin O’Sullivan “Genomics and System Bi
 
 - NGS and multi-omics data analysis, 7 years
 - Broad knowledge in biochemistry, genetics and molecular biology
-- Programming experience in Python, R, Matlab, C++, Bash
+- Programming experience in R, Python, Matlab, C++, Bash
 - Excellent organisational, writing and communication skills
 - High motivation to get things done
 - Ability to work in team and independently
@@ -65,11 +67,19 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 
 ### PROFESSIONAL & RESEARCH EXPERIENCE
 
-<strong>01.04.2021 &mdash; present</strong><br/>
+<strong>11.10.2021 &mdash; present</strong><br/>
+<strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
+Position: Postdoctoral Fellow<br/>
+
+Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. At the Institute, I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+
+&nbsp;
+
+<strong>01.04.2021 &mdash; 11.10.2021</strong><br/>
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Research Assistant<br/>
 
-Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. At the Institute, I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+At the Liggins Institute, I was performing multi-omics integrative data analysis in order to identify the spatial regulatory gene network of chronic obstructive pulmonary disease (COPD).
 
 &nbsp;
 
@@ -183,9 +193,18 @@ I'm serving as a discussion leader for the University of Auckland Book Club wher
 
 &nbsp;
 
+<strong>01.10.2021 &mdash; present</strong><br/>
+<strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
+Role: GoodSAM Responder<br/>
+
+I'm serving as a GoodSAM volunteer, ready to respond to and help a patient suspected to be in cardiac arrest.
+
+&nbsp;
+
 ### ADDITIONAL EDUCATION
 
-- [Healthy Start Workforce Online Education Programme](https://www.dropbox.com/s/0q4vi7swc0qpxme/Early-life%20Science%20Programme_Healthy%20Start%20Education%20Programme%20Certificate%20of%20Completion.pdf?dl=0) by New Zealand Ministry of Health
+- [Healthy Conversation Skills Course](https://www.dropbox.com/s/i12dj5t4rmzfqv3/Certificate_Healthy_Conversation.pdf?dl=0) by Healthy Start Professional Development
+- [Healthy Start Workforce Online Education Programme](https://www.dropbox.com/s/0q4vi7swc0qpxme/Early-life%20Science%20Programme_Healthy%20Start%20Education%20Programme%20Certificate%20of%20Completion.pdf?dl=0) by Healthy Start Professional Development
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
 - [Psychological First Aid](http://coursera.org/verify/PPJQDEAVY5AK) by Johns Hopkins University (Coursera)
 - [Comprehensive First Aid Course](https://www.dropbox.com/s/lyxgfdbcp8l5c7d/Certificate_Comprehensive_First_Aid_AM_Doc_b21177c8-3213-4fe3-b2bc-36eeccdb57c5.pdf?dl=0) by New Zealand Red Cross
