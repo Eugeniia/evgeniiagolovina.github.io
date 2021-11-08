@@ -12,7 +12,7 @@ title: Evgeniia Golovina - CV
 
 A Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand.
 
-Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I absolutely agree. I’m passionate about health sciences and I have the same goal in mind - I simply want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our intention to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
+Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about health sciences and I have the same goal in mind - I simply want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our intention to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
 
 Currently, I'm doing research in Justin O’Sullivan “Genomics and Systems Biology” group where we're trying to understand the regulatory role of genetics and epigenetics in the development of complex traits. Particularly, we're interested in how genetic variants associated with complex traits can act to regulate genes, and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell-type-specific gene regulation in the development of these traits.
 
@@ -72,6 +72,14 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 Position: Postdoctoral Fellow<br/>
 
 Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. At the Institute, I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+
+&nbsp;
+
+<strong>01.11.2021 &mdash; present</strong><br/>
+<strong>[University of Auckland](https://www.auckland.ac.nz/en.html)</strong>, Auckland, New Zealand<br/>
+Position: UoA Microinternship Mentor<br/>
+
+The UoA Virtual Microinternship is a great opportunity for international students to work on real business projects. As a UoA Microinternship Mentor, I am involved in supporting the students to gain real world industry experience with leading New Zealand organisations, and to develop their employability skills, confidence and connections.
 
 &nbsp;
 
