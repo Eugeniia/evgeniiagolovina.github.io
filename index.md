@@ -79,7 +79,7 @@ Liggins Institute is one of the world-leading centers investigating fetal and ch
 <strong>[University of Auckland](https://www.auckland.ac.nz/en.html)</strong>, Auckland, New Zealand<br/>
 Position: UoA Microinternship Mentor<br/>
 
-The UoA Virtual Microinternship is a great opportunity for international students to work on real business projects. As a UoA Microinternship Mentor, I am involved in supporting the students to gain real world industry experience with leading New Zealand organisations, and to develop their employability skills, confidence and connections.
+The UoA Virtual Microinternship is a three-week programme that provides a great opportunity for international students to work on real business projects. As a UoA Microinternship Mentor, I am responsible for supporting the teams of students by guiding them and helping them gain the real world industry experience with leading New Zealand organisations. This also includes helping students develop their confidence, connections and employability skills.
 
 &nbsp;
 
