@@ -12,19 +12,20 @@ title: Evgeniia Golovina - CV
 
 A Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand.
 
-Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about health sciences and I have the same goal in mind - I simply want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our intention to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
+Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
 
-Currently, I'm doing research in Justin O’Sullivan “Genomics and Systems Biology” group where we're trying to understand the regulatory role of genetics and epigenetics in the development of complex traits. Particularly, we're interested in how genetic variants associated with complex traits can act to regulate genes, and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell-type-specific gene regulation in the development of these traits.
+Currently, I'm doing research in Justin O’Sullivan “Genomics and Systems Biology” group where we're trying to understand the regulatory role of genetics and epigenetics in the development of complex diseases. Particularly, we're interested in how genetic variants associated with complex diseases can act to regulate genes, and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell-type-specific gene regulation in the development of these diseases.
 
+Contact me via Linkedin or email.
 
 &nbsp;
 
 **Summary:**
 
 - NGS and multi-omics data analysis, 7 years
-- Broad knowledge in biochemistry, genetics and molecular biology
+- Broad knowledge in health science, genetics, molecular biology and biochemistry
 - Programming experience in R, Python, Matlab, C++, Bash
-- Excellent organisational, writing and communication skills
+- Excellent organisational, writing, communication and presentation skills
 - High motivation to get things done
 - Ability to work in team and independently
 
@@ -71,15 +72,15 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Postdoctoral Fellow<br/>
 
-Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. At the Institute, I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
 
 &nbsp;
 
-<strong>01.11.2021 &mdash; present</strong><br/>
-<strong>[University of Auckland](https://www.auckland.ac.nz/en.html)</strong>, Auckland, New Zealand<br/>
-Position: UoA Microinternship Mentor<br/>
+<strong>09.11.2021 &mdash; 17.12.2021</strong><br/>
+<strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
+Position: UoA Micro-internship Mentor<br/>
 
-The UoA Virtual Microinternship is a three-week programme that provides a great opportunity for international students to work on real business projects. As a UoA Microinternship Mentor, I am responsible for supporting the teams of students by guiding them, providing constructive and timely feedback, and helping them gain real world industry experience with leading New Zealand organisations. This also includes helping students develop their confidence, connections and employability skills (such as delivering a high quality report and presentation to the client).
+Talent Solutions is dedicated to supporting organizations to engage outstanding talent. The core focus is delivering early talent programs such as the University of Auckland Virtual Micro-internship program. It is a three-week program that provides a great opportunity for international students to work on real business projects. I was responsible for supporting the teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience with leading New Zealand organizations. This also included helping students develop their confidence, connections, and employability skills (e.g. delivering a high-quality report and presentation to the client).
 
 &nbsp;
 
@@ -87,7 +88,7 @@ The UoA Virtual Microinternship is a three-week programme that provides a great 
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Research Assistant<br/>
 
-At the Liggins Institute, I was performing multi-omics integrative data analysis in order to identify the spatial regulatory gene network of chronic obstructive pulmonary disease (COPD).
+I was performing multi-omics integrative data analysis in order to identify the spatial regulatory gene network of chronic obstructive pulmonary disease (COPD).
 
 &nbsp;
 
@@ -95,7 +96,7 @@ At the Liggins Institute, I was performing multi-omics integrative data analysis
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
 Position: Biologist<br/>
 
-Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. At Genestack, I was involved in Next Generation Sequencing (NGS) data analysis, development of the test system for biological applications, curation of the experiments pre-uploaded from public databases, development of user-friendly interfaces via coordination with software developers, promotion of the company products, and user support.
+Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. I was involved in Next Generation Sequencing (NGS) data analysis, development of the test system for biological applications, curation of the experiments pre-uploaded from public databases, development of user-friendly interfaces via coordination with software developers, promotion of the company products, and user support.
 
 &nbsp;
 
@@ -103,7 +104,7 @@ Genestack is a platform to manage, process and visualize biological data, with a
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
 Position: Patent agent<br/>
 
-Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. At Nevinpat, I was involved in the protection of foreign applications from both Russian and Eurasian patent offices. This included the correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of the patent applications, and defining patent infringement.
+Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. I was involved in the protection of foreign applications from both Russian and Eurasian patent offices. This included the correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of the patent applications, and defining patent infringement.
 
 &nbsp;
 
@@ -111,19 +112,17 @@ Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
 Position: Research Assistant<br/>
 
-Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. At the Institute, I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
+Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
 
 &nbsp;
 
 ### SKILLS & INTERESTS
 
 **Personal qualities:**
-Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested
-in getting things done, excellent organisational and communication skills, eager to
-learn and develop new skills, willing to travel up to 80%
+Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested in getting things done, excellent organisational and communication skills, eager to learn and develop new skills, willing to travel up to 80%
 
 **Data analysis and computer skills:**
-Expertise with commonly used software applications and bioinformatics tools for analysis of NGS and multi-omics data (Hi-C, RNA-seq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome) and spectroscopic data (Raman and Infrared spectroscopy); experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Jupyter Notebook, Spyder, PyCharm and TensorFlow
+Expertise with commonly used software applications and bioinformatics tools for analysis of multi-omics and spectroscopic data; experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Adobe Illustrator, Adobe Photoshop, Jupyter Notebook, Spyder, PyCharm, RStudio, Tableau, Microsoft Power BI, PyTorch and TensorFlow 2
 
 **Programming skills:**
 Python, R, MatLab, C++, Bash
@@ -132,7 +131,7 @@ Python, R, MatLab, C++, Bash
 Russian (native), English (professional), Spanish (limited), German (elementary)
 
 **Professional interests:**
-Bioinformatics, data science and visualization, data storytelling, public speaking, machine learning, 4D genome architecture and gene regulation, psychiatric genetics, precision medicine, innovation and commercialization in science
+Health sciences, bioinformatics, data science and storytelling, public speaking, consulting, machine learning, 4D genome architecture and gene regulation, communication strategies, genetics, psychology, precision medicine, innovation and commercialisation in science
 
 **Hobbies:**
 Hiking, yoga, art, sports massage, scuba diving and freediving, first aid, cycling
@@ -181,7 +180,7 @@ November 2020<br/>
 <strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
 Role: Job Mentor<br/>
 
-Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
+Sharing my experience and feedback with participants of 1) the Worktalk program that is designed to help improve communication between New Zealand employers and new migrant employees from other cultures and 2) the F2F English for Employees program that focuses on communications in the workplace 
 
 &nbsp;
 
@@ -197,7 +196,7 @@ Helping ELA students to engage in meaningful conversations outside of their Engl
 <strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
 Role: Discussion Leader<br/>
 
-I'm serving as a discussion leader for the University of Auckland Book Club where I share my passion for reading. My role is to help create a very engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
+Sharing my passion for reading through creating an engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
 &nbsp;
 
@@ -205,12 +204,14 @@ I'm serving as a discussion leader for the University of Auckland Book Club wher
 <strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
 Role: GoodSAM Responder<br/>
 
-I'm serving as a GoodSAM volunteer, ready to respond to and help a patient suspected to be in cardiac arrest.
+Ready to respond to and help a patient suspected to be in cardiac arrest.
 
 &nbsp;
 
 ### ADDITIONAL EDUCATION
-
+- [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
+- [Virtual Leadership Development Course "Universitas 21 Global Citizenship"](https://universitas21.com/globalcitizens) by Universitas 21 & Common
+Purpose, 4-27 October 2021
 - [Healthy Conversation Skills Course](https://www.dropbox.com/s/i12dj5t4rmzfqv3/Certificate_Healthy_Conversation.pdf?dl=0) by Healthy Start Professional Development
 - [Healthy Start Workforce Online Education Programme](https://www.dropbox.com/s/0q4vi7swc0qpxme/Early-life%20Science%20Programme_Healthy%20Start%20Education%20Programme%20Certificate%20of%20Completion.pdf?dl=0) by Healthy Start Professional Development
 - [Docker Masterclass for Machine Learning and Data Science](https://www.udemy.com/certificate/UC-c2ac9cbc-46c0-4312-8271-6fb7727c991c/) (Udemy)
@@ -220,9 +221,10 @@ I'm serving as a GoodSAM volunteer, ready to respond to and help a patient suspe
 - [Executive Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/ZLV6XLYVN9PZ) by Johns Hopkins University (Coursera)
 - Data Science Specialization by Johns Hopkins University (Coursera)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
-- Communication Strategies for a Virtual Age by University of Toronto (Coursera)
-- Mathematics for Data Science Specialization by Higher School of Economics (Coursera)
-- Machine Learning by Stanford University (Coursera)
+- [Power BI A-Z: Hands-On Power BI Training For Data Science](https://www.dropbox.com/s/cn0jy8a872z90yh/Udemy_Power_BI_A-Z_Hands-On_Power_BI_Training_For_Data_Science.pdf?dl=0) (Udemy)
+- [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.dropbox.com/s/jevzuzqbi9exrvs/Udemy_Tableau_2020_A-Z_Hands-On_Tableau_Training_for_Data_Science.pdf?dl=0) (Udemy)
+- [Grow Your Impact as a Mentor](https://www.dropbox.com/s/jtw44wv4le0zblf/CertificateOfCompletion_Grow_Your_Impact_as_a_Mentor_learning_path.pdf?dl=0) (Linkedin Learning)
+- [Diversity, Inclusion, and Belonging for Leaders and Managers](https://www.dropbox.com/s/4b1j18fjqirodi3/CertificateOfCompletion_Diversity_Inclusion_and_Belonging_for_Leaders_and_Managers.pdf?dl=0) (Linkedin Learning)
 
 &nbsp;
 
