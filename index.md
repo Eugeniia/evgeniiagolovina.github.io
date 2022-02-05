@@ -12,9 +12,7 @@ title: Evgeniia Golovina - CV
 
 A Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand.
 
-Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help other people in solving their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
-
-Currently, I'm doing research in Justin O’Sullivan “Genomics and Systems Biology” group where we're trying to understand the regulatory role of genetics and epigenetics in the development of complex diseases. Particularly, we're interested in how genetic variants associated with complex diseases can act to regulate genes, and how the knowledge on the 3D genome organization might inform our understanding of tissue- and cell-type-specific gene regulation in the development of these diseases.
+Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help people solve their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
 
 Contact me via Linkedin or email.
 
@@ -72,7 +70,7 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Postdoctoral Fellow<br/>
 
-Liggins Institute is one of the world-leading centers investigating fetal and child health, genetics, epigenetics, and nutrition with the goal of translating research into real-world applications that can prevent or better manage non-communicable diseases. I am involved in multi-omics integrative data analysis and the development of a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease (COPD).
+I am developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and its multimorbidities.
 
 &nbsp;
 
@@ -80,7 +78,7 @@ Liggins Institute is one of the world-leading centers investigating fetal and ch
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
 Position: UoA Micro-internship Mentor<br/>
 
-Talent Solutions is dedicated to supporting organizations to engage outstanding talent. The core focus is delivering early talent programs such as the University of Auckland Virtual Micro-internship program. It is a three-week program that provides a great opportunity for international students to work on real business projects. I was responsible for supporting the teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience with leading New Zealand organizations. This also included helping students develop their confidence, connections, and employability skills (e.g. delivering a high-quality report and presentation to the client).
+I was supporting the teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience with leading New Zealand organizations.
 
 &nbsp;
 
@@ -88,7 +86,7 @@ Talent Solutions is dedicated to supporting organizations to engage outstanding 
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Research Assistant<br/>
 
-I was performing multi-omics integrative data analysis in order to identify the spatial regulatory gene network of chronic obstructive pulmonary disease (COPD).
+I was performing multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease.
 
 &nbsp;
 
@@ -96,7 +94,7 @@ I was performing multi-omics integrative data analysis in order to identify the 
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
 Position: Biologist<br/>
 
-Genestack is a platform to manage, process and visualize biological data, with a goal to help users leverage high-throughput multi-omics data and fast-track drug discovery, precision medicine and bioinformatics research in the post-genomic era. I was involved in Next Generation Sequencing (NGS) data analysis, development of the test system for biological applications, curation of the experiments pre-uploaded from public databases, development of user-friendly interfaces via coordination with software developers, promotion of the company products, and user support.
+I was performing Next-Generation Sequencing data analysis, developing a test system for biological applications, curating experiments pre-uploaded from public databases, helping software developers develop user-friendly interfaces, promoting the company products, and supporting users.
 
 &nbsp;
 
@@ -104,7 +102,7 @@ Genestack is a platform to manage, process and visualize biological data, with a
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
 Position: Patent agent<br/>
 
-Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-nevinpat.com/papula-nevinpat/), one of the largest trademark, design and patent agencies in Finland. I was involved in the protection of foreign applications from both Russian and Eurasian patent offices. This included the correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of the patent applications, and defining patent infringement.
+I was protecting foreign applications from both Russian and Eurasian patent offices. That included correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of patent applications, and defining patent infringement.
 
 &nbsp;
 
@@ -112,7 +110,7 @@ Nevinpat is a Saint Petersburg division of [Papula-Nevinpat](https://www.papula-
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
 Position: Research Assistant<br/>
 
-Smorodintsev Research Institute of Influenza is one of the leading scientific centers tasked with handling urgent issues in virology, epidemiology, viral pathogenesis and clinical manifestations. I was involved in laboratory diagnosis and investigation of hepatitis C (HCV), torque teno (TTV) and influenza viruses.
+I was performing laboratory diagnosis of hepatitis C, torque teno, and influenza viruses.
 
 &nbsp;
 
@@ -164,12 +162,12 @@ November 2020<br/>
 
 ### PUBLICATIONS
 
+- Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. Brain. 2022.  [DOI](https://doi.org/10.1093/brain/awac022)
 - Fadason T, Farrow S, Gokuladhas S, **Golovina E**, Nyaga D, O'Sullivan JM, Schierding W. Assigning function to SNPs: Considerations when interpreting genetic variation. Semin Cell Dev Biol. 2021. [DOI](https://doi.org/10.1016/j.semcdb.2021.08.008)
 - Gokuladhas S, Schierding W, **Golovina E**, Fadason T, O’Sullivan JM. Unravelling the shared genetic mechanisms underlying 18 autoimmune diseases using a systems approach. Front Immunol. 2021;12:3262. [DOI](https://doi.org/10.3389/fimmu.2021.693142)
 - **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Understanding the impact of SNPs associated with autism spectrum disorder on biological pathways in the human fetal and adult cortex. Sci Rep. 2021;11:15867. [DOI](https://doi.org/10.1038/s41598-021-95447-z)
 - **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
 - Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
-- Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. bioRxiv. 2021.04.08.439080. [DOI](https://doi.org/10.1101/2021.04.08.439080)
 - Fadason T, Gokuladhas S, **Golovina E**, Ho D, Farrow S, Nyaga D, et al. A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors. bioRxiv. 2020:2020.04.14.042002. [DOI](https://www.biorxiv.org/content/10.1101/2020.04.14.042002v2)
 
 &nbsp;
@@ -180,7 +178,7 @@ November 2020<br/>
 <strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
 Role: Job Mentor<br/>
 
-Sharing my experience and feedback with participants of 1) the Worktalk program that is designed to help improve communication between New Zealand employers and new migrant employees from other cultures and 2) the F2F English for Employees program that focuses on communications in the workplace 
+Sharing my experience and feedback with participants of 1) the Worktalk program that is designed to help improve communication between New Zealand employers and new migrant employees from other cultures and 2) the F2F English for Employees program that focuses on communications in the workplace.
 
 &nbsp;
 
