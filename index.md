@@ -8,7 +8,7 @@ title: Evgeniia Golovina - CV
 
 ## Evgeniia Golovina
 
-<img align="right" src="images/Evgeniia.jpg">
+<img align="right" src="images/Evgeniia.png" style="width:300px;">
 
 A Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand.
 
@@ -44,13 +44,13 @@ Contact me via Linkedin or email.
 
 **2017 &ndash; 2021**<br/>
 **PhD**. *University of Auckland, Liggins Institute, Health Sciences*<br/>
-PhD thesis “[Decoding the regulatory landscape of psychiatric and alcohol use
+Thesis “[Decoding the regulatory landscape of psychiatric and alcohol use
 disorders](https://hdl.handle.net/2292/57161)”<br/>
 
 **2012 &ndash; 2014**<br/>
 **MSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Biochemistry and Molecular Biology<br/>
-MSc thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
+Thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
 
 **2012 &ndash; 2014**<br/>
 **Professional Communication Translator**. *Saint Petersburg State University, English & Russian*<br/>
@@ -59,7 +59,7 @@ Diploma work in translation of “Raman Spectroscopy in Art and Archaeology: A N
 **2008 &ndash; 2012**<br/>
 **BSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Cell and Molecular Biology, Biotechnology<br/>
-BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersburg and Leningrad region in 2010-2011”<br/>
+Thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersburg and Leningrad region in 2010-2011”<br/>
 
 
 &nbsp;
@@ -70,7 +70,15 @@ BSc thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersbur
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Postdoctoral Fellow<br/>
 
-I am developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and its multimorbidities.
+Developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits. Co-supervising three PhD students.
+
+&nbsp;
+
+<strong>13.06.2022 &mdash; 18.07.2022</strong><br/>
+<strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
+Position: UoA Micro-internship Mentor<br/>
+
+Supported three teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, SWOT and SEO analyses, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
 &nbsp;
 
@@ -78,7 +86,7 @@ I am developing a Machine Learning approach to predict an individual’s predisp
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
 Position: UoA Micro-internship Mentor<br/>
 
-I was supporting the teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience with leading New Zealand organizations.
+Supported two teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, market research, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
 &nbsp;
 
@@ -86,7 +94,7 @@ I was supporting the teams of students by guiding them, providing constructive a
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
 Position: Research Assistant<br/>
 
-I was performing multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease.
+Performed multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease and co-occuring traits.
 
 &nbsp;
 
@@ -94,7 +102,7 @@ I was performing multi-omics integrative data analysis to identify the spatial r
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
 Position: Biologist<br/>
 
-I was performing Next-Generation Sequencing data analysis, developing a test system for biological applications, curating experiments pre-uploaded from public databases, helping software developers develop user-friendly interfaces, promoting the company products, and supporting users.
+Performed Next-Generation Sequencing analysis of different types of data (RNAseq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome). Developed a test system for biological applications. Curated experiments pre-uploaded from public databases. Helped software developers create user-friendly interfaces. Promoted the company products. Supported users.
 
 &nbsp;
 
@@ -102,7 +110,7 @@ I was performing Next-Generation Sequencing data analysis, developing a test sys
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
 Position: Patent agent<br/>
 
-I was protecting foreign applications from both Russian and Eurasian patent offices. That included correspondence between patent experts and foreign applicants, comparative analysis of patentability, editing Russian translations of patent applications, and defining patent infringement.
+Protected foreign applications coming from Russian and Eurasian patent offices. Facilitated correspondence between patent experts and foreign applicants. Performed comparative analysis of patentability. Edited Russian translations of patent applications. Defined patent infringement.
 
 &nbsp;
 
@@ -110,17 +118,18 @@ I was protecting foreign applications from both Russian and Eurasian patent offi
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
 Position: Research Assistant<br/>
 
-I was performing laboratory diagnosis of hepatitis C, torque teno, and influenza viruses.
+Performed laboratory diagnosis of hepatitis C, torque teno, and influenza viruses.
 
 &nbsp;
 
 ### SKILLS & INTERESTS
 
 **Personal qualities:**
-Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested in getting things done, excellent organisational and communication skills, eager to learn and develop new skills, willing to travel up to 80%
+Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested in getting things done, excellent organizational and communication skills, eager to learn and develop new skills, willing to travel up to 80%
 
 **Data analysis and computer skills:**
-Expertise with commonly used software applications and bioinformatics tools for analysis of multi-omics and spectroscopic data; experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with Docker/Singularity, database administration tools (e.g. PostgreSQL), GitHub, Adobe Illustrator, Adobe Photoshop, Jupyter Notebook, Spyder, PyCharm, RStudio, Tableau, Microsoft Power BI, PyTorch and TensorFlow 2
+Expertise with commonly used software applications and bioinformatics tools for analysis of multi-omics and spectroscopic data; experience with NeSI, Nectar Research Cloud, eResearch VMs and Google Cloud computing platforms; familiarity with container platforms (Docker, Singularity), database administration tools (PostgreSQL), version control tools (Git), Adobe tools (Illustrator, Photoshop, XD), integrated development environments (Spyder, PyCharm, RStudio),
+visualization tools (Tableau and Microsoft Power BI), machine learning frameworks (PyTorch, TensorFlow 2)
 
 **Programming skills:**
 Python, R, MatLab, C++, Bash
@@ -129,23 +138,19 @@ Python, R, MatLab, C++, Bash
 Russian (native), English (professional), Spanish (limited), German (elementary)
 
 **Professional interests:**
-Health sciences, bioinformatics, data science and storytelling, public speaking, consulting, machine learning, 4D genome architecture and gene regulation, communication strategies, genetics, psychology, precision medicine, innovation and commercialisation in science
+Health sciences, bioinformatics, data science, data visualization, public speaking, machine learning, 4D genome architecture, gene regulation, scientific communication, neurogenetics, psychology, precision medicine, innovation and commercialization in science
 
 **Hobbies:**
-Hiking, yoga, art, sports massage, scuba diving and freediving, first aid, cycling
+Hiking, yoga, art, sports massage, scuba diving and freediving, first aid
 
 &nbsp;
 
-### ACTIVITIES
-
+### ACTIVITIES / PRESENTATIONS
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
 - **15th GeneMappers Conference 2021** (oral presentation), 23-25 June 2021<br/>
 - **IET #PresentIn10 Competition** (Healthy lives, Stage 1 winner), 23 June 2021<br/>
 - **Virtual Keystone Symposia "Neuroimmune Interactions in Health and Disease"** (digital poster), 7-9 June 2021<br/>
 - Instructor at the **virtual workshop** [**"Using R in Research"**](https://tayaza.github.io/2021-05-18-ihvn-online/) organised by the Liggins Institue in collaboration with the Institute of Human Virology in Nigeria (IHVN), 17-18 May 2021<br/>
-- **Virtual BCI & Neurotechnology Spring School** by g.tec medical engineering GmbH, 12-21 April 2021<br/>
-- **Hi-C workshop** by Genomics Aotearoa, 25-26 March 2021, Auckland, NZ<br/>
-- Co-organizer of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ<br/>
 - **Virtual EMBL Conference: From Functional Genomics to Systems Biology** (digital poster), 16-19
 November 2020<br/>
 - **16th Asian Conference on Transcription 2019** (poster presentation), 1-4 December 2019, Dunedin, NZ<br/>
@@ -154,9 +159,6 @@ November 2020<br/>
 - **HealtheX 2019 conference** (oral presentation), 13th September 2019, Auckland, NZ<br/>
 - **The Research Bazaar (ResBaz) 2019**, helper for “Introductory R” session, 10-12 July 2019, Auckland, NZ<br/>
 - **HealtheX 2018 conference** (elevator pitch presentation), 7th September 2018, Auckland, NZ<br/>
-- **Winter School in Mathematical & Computational Biology** by the University of Queensland, 2-6 July 2018, Brisbane, Australia<br/>
-- **Enterprise & Innovation Workshop** by Centre for Innovation and Entrepreneurship at the University of Auckland, 7 & 13 March 2018, Auckland, NZ<br/>
-- **PhD Research Innovation & Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ<br/>
 
 &nbsp;
 
@@ -178,7 +180,7 @@ November 2020<br/>
 <strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
 Role: Job Mentor<br/>
 
-Sharing my experience and feedback with participants of 1) the Worktalk program that is designed to help improve communication between New Zealand employers and new migrant employees from other cultures and 2) the F2F English for Employees program that focuses on communications in the workplace.
+Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
 
 &nbsp;
 
@@ -187,6 +189,14 @@ Sharing my experience and feedback with participants of 1) the Worktalk program 
 Role: Conversation Leader<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
+
+&nbsp;
+
+<strong>09.03.2022 &mdash; present</strong><br/>
+<strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
+Role: Business Mentor<br/>
+
+Supporting business students (Women’s Mentoring Programme).
 
 &nbsp;
 
@@ -207,6 +217,7 @@ Ready to respond to and help a patient suspected to be in cardiac arrest.
 &nbsp;
 
 ### ADDITIONAL EDUCATION
+- [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
 - [Virtual Leadership Development Course "Universitas 21 Global Citizenship"](https://universitas21.com/globalcitizens) by Universitas 21 & Common
 Purpose, 4-27 October 2021
@@ -223,14 +234,21 @@ Purpose, 4-27 October 2021
 - [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.dropbox.com/s/jevzuzqbi9exrvs/Udemy_Tableau_2020_A-Z_Hands-On_Tableau_Training_for_Data_Science.pdf?dl=0) (Udemy)
 - [Grow Your Impact as a Mentor](https://www.dropbox.com/s/jtw44wv4le0zblf/CertificateOfCompletion_Grow_Your_Impact_as_a_Mentor_learning_path.pdf?dl=0) (Linkedin Learning)
 - [Diversity, Inclusion, and Belonging for Leaders and Managers](https://www.dropbox.com/s/4b1j18fjqirodi3/CertificateOfCompletion_Diversity_Inclusion_and_Belonging_for_Leaders_and_Managers.pdf?dl=0) (Linkedin Learning)
+- **Virtual BCI & Neurotechnology Spring School** by g.tec medical engineering GmbH, 12-21 April 2021
+- **Hi-C workshop** by Genomics Aotearoa, 25-26 March 2021, Auckland, NZ
+- Co-organizer of the **Student Research Day at Liggins Institute**, 1st December 2020, Auckland, NZ
+- **Winter School in Mathematical & Computational Biology** by the University of Queensland, 2-6 July 2018, Brisbane, Australia
+- **Enterprise & Innovation Workshop** by Centre for Innovation and Entrepreneurship at the University of Auckland, 7 & 13 March 2018, Auckland, NZ
+- **PhD Research Innovation & Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ
 
 &nbsp;
 
 ### REFEREES
 
 - **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
-- **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
 - **MBA, PhD. Alessandro Riccombeni**, *Amazon Web Services*, email: alessandro.riccombeni@gmail.com
+- **Sarah Clifton**, *The University of Auckland English Language Academy*, email: sarah.clifton@auckland.ac.nz
+- **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
 - **Prof. Lyudmila Panina**, *Saint Petersburg State University*, email: lkpanina@yandex.ru
 
 
