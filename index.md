@@ -6,7 +6,7 @@ title: Evgeniia Golovina - CV
 ---
 
 
-## Evgeniia Golovina
+## Evgeniia Golovina, PhD
 
 <img align="right" src="images/Evgeniia.png" style="width:300px;">
 
