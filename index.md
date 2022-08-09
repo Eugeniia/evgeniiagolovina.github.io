@@ -20,10 +20,10 @@ Contact me via Linkedin or email.
 
 **Summary:**
 
-- NGS and multi-omics data analysis, 7 years
+- 7 years of experience in data science
 - Broad knowledge in health science, genetics, molecular biology and biochemistry
-- Programming experience in R, Python, Matlab, C++, Bash
-- Excellent organisational, writing, communication and presentation skills
+- Programming experience in R, Python, Matlab, Bash
+- Excellent organizational, writing, communication and presentation skills
 - High motivation to get things done
 - Ability to work in team and independently
 
